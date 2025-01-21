@@ -3,9 +3,9 @@ Improved implementation of PatchMatch that utilizes fusion network
 
 # Instructions to access code:
 
-Download folder
+Download DFNet folder from fusion network repository, found below
 
-Open and run "PatchMatchX.py"
+Download, open, and run "PatchMatchX.py" in that folder
 
 To use different parameters, scroll to bottom:
 
@@ -28,5 +28,6 @@ Different masks can be used by changing the mask path
 The other paths are preset by PatchMatchX.py
 
 Original PatchMatch python implementation by MingtaoGuo, edited for the purposes of this project: github.com/MingtaoGuo/PatchMatch
+
 Original fusion network by Mr.Blue, edited for the purposes of this project: github.com/hughplay/DFNet
 
