@@ -27,6 +27,6 @@ Different masks can be used by changing the mask path
 
 The other paths are preset by PatchMatchX.py
 
-
+Original PatchMatch python implementation by MingtaoGuo, edited for the purposes of this project: github.com/MingtaoGuo/PatchMatch
 Original fusion network by Mr.Blue, edited for the purposes of this project: github.com/hughplay/DFNet
 
